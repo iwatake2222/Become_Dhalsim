@@ -2,6 +2,7 @@
 Stretch your arm detected by Deep Learning (BodyPix) with Edge TPU
 
 ![Dhalsim](00_doc/Dhalsim.gif "Dhalsim.gif")
+![sample](00_doc/sample.jpg "sample.jpg")
 
 ## Environment
 - Windows 10 (can be any)
