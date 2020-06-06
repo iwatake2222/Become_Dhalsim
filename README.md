@@ -12,6 +12,9 @@ Stretch your arm detected by Deep Learning (BodyPix) with Edge TPU
 
 ## How to Run
 ```
+git submodule init
+git submodule update
+
 conda create -n py37_edgetpu_bodypix  python=3.7
 conda activate py37_edgetpu_bodypix
 pip install https://dl.google.com/coral/python/tflite_runtime-2.1.0-cp37-cp37m-win_amd64.whl
