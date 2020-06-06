@@ -1,0 +1,3 @@
+[submodule "bodypix"]
+	path = bodypix
+	url = https://github.com/google-coral/project-bodypix
